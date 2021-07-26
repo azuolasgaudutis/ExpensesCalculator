@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesCalculator", "ExpensesCalculator.csproj", "{661ADF2C-0F52-4385-8DBB-8D0048E51D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesCalculatorTests", "..\ExpensesCalculatorTests\ExpensesCalculatorTests.csproj", "{D4F63F73-526B-4485-B37B-21CB1529E53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661ADF2C-0F52-4385-8DBB-8D0048E51D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661ADF2C-0F52-4385-8DBB-8D0048E51D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661ADF2C-0F52-4385-8DBB-8D0048E51D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661ADF2C-0F52-4385-8DBB-8D0048E51D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F63F73-526B-4485-B37B-21CB1529E53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F63F73-526B-4485-B37B-21CB1529E53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F63F73-526B-4485-B37B-21CB1529E53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F63F73-526B-4485-B37B-21CB1529E53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F37ADB-368A-4F8C-83F5-27165BC60471}
+	EndGlobalSection
+EndGlobal
